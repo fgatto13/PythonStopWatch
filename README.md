@@ -1,8 +1,16 @@
 # 🐍 PythonStopWatch ⏱️
 ## 🖼 App Preview
+Here you can see what the app looks like:
+
 ![Screen1](assets/Screenshot%202025-07-31%20alle%2017.24.14.png)
-![Screen2](assets/Screenshot%202025-07-31%20alle%2017.24.28.png)
-![Screen3](assets/Screenshot%202025-07-31%20alle%2017.24.38.png)
+
+And here are a couple of screenshots to show how the app behaves based on the operation performed:
+
+<p float="left">
+    <img src="assets/Screenshot%202025-07-31%20alle%2017.24.14.png" width="135"/>
+    <img src="assets/Screenshot%202025-07-31%20alle%2017.24.28.png" width="135"/>
+    <img src="assets/Screenshot%202025-07-31%20alle%2017.24.38.png" width="135"/>
+</p>
 
 This project is a stopwatch application built with **PyQt5**, combining a real-time digital clock with a start/stop/reset timer. It features a custom 7-segment-style font, dynamic styling, and a clean, interactive interface.
 
